@@ -1,5 +1,18 @@
 {
   "name": "Artifact Virtual Token List",
+  "timestamp": "2026-06-17T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://artifactvirtual.github.io/token-list/logo.png",
+  "keywords": [
+    "artifact",
+    "virtual",
+    "av",
+    "base"
+  ],
   "tokens": [
     {
       "chainId": 8453,
@@ -7,7 +20,7 @@
       "name": "Artifact Virtual",
       "symbol": "AV",
       "decimals": 18,
-      "logoURI": "https://yourdomain.com/logo.png"
+      "logoURI": "https://artifactvirtual.github.io/token/logo.png"
     }
   ]
 }
