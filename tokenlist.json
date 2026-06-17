@@ -1,0 +1,13 @@
+{
+  "name": "Artifact Virtual Token List",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x031a0ba2e7f29d10ddd229f844723261a42aecf6",
+      "name": "Artifact Virtual",
+      "symbol": "AV",
+      "decimals": 18,
+      "logoURI": "https://yourdomain.com/logo.png"
+    }
+  ]
+}
