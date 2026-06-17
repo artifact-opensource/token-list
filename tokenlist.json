@@ -6,7 +6,7 @@
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://artifactvirtual.github.io/token-list/logo.png",
+  "logoURI": "https://artifact-opensource.github.io/token-list/assets/logo.png",
   "keywords": [
     "artifact",
     "virtual",
@@ -20,7 +20,7 @@
       "name": "Artifact Virtual",
       "symbol": "AV",
       "decimals": 18,
-      "logoURI": "https://artifactvirtual.github.io/token/logo.png"
+      "logoURI": "https://artifact-opensource.github.io/token-list/assets/logo.png"
     }
   ]
 }
