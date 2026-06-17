@@ -1,0 +1,21 @@
+{
+  "name": "Artifact Virtual",
+  "symbol": "AV",
+  "description": "Artifact Virtual ecosystem token powering AI, blockchain, virtualization and governance infrastructure.",
+  "image": "https://artifactvirtual.github.io/token/logo.png",
+  "external_url": "https://www.artifactvirtual.com",
+  "contract_address": "0x031a0ba2e7f29d10ddd229f844723261a42aecf6",
+  "chain_id": 8453,
+  "decimals": 18,
+  "total_supply": "1000000000",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "ERC20"
+    }
+  ]
+}
